@@ -1,0 +1,30 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px crimson;
+    border-radius: 10px;
+}
+
+a {
+    font-size: 20px !important;
+    width: 400px;
+    border-radius: 30px !important;
+    background-color: mediumspringgreen;
+    color: blue;
+}
+
+a:hover{
+    transition: 2s ease;
+    background-color: whitesmoke;
+}
